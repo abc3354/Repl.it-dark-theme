@@ -1,6 +1,5 @@
 # Repl.it dark theme
-Site-wide dark theme for Repl.it
-
+Site-wide dark theme for Repl.it [![Run on Repl.it](https://repl.it/badge/github/mat-1/Repl.it-dark-theme)](https://repl.it/github/mat-1/Repl.it-dark-theme)
 
 ## How to download:
 1. Download the Tampermonkey [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) extension
